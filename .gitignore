@@ -18,6 +18,5 @@ obj/
 *.dll
 *.pdb
 *.ilk
-*.lib
 *.exp
 *.log
