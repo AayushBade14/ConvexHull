@@ -1,7 +1,7 @@
 # ConvexHull
 Demonstration of the various convex hull algorithms
 
-![ConvexHull Demo](Screenshots\ss1.png)
+![ConvexHull Demo](Screenshots/ss1.png)
 
 ## What is a convex hull?
 - Given a set of points, the convex hull is the smallest convex shape that can enclose all the points. It can be visualized as the shape formed by stretching a rubber band around the outermost points.
