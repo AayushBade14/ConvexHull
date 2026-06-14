@@ -3,5 +3,8 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
+  <Folder Name="/Solution Items/">
+    <File Path=".gitignore" />
+  </Folder>
   <Project Path="App/App.vcxproj" Id="56673ded-7483-4a9c-9477-27ad9cd4170a" />
 </Solution>
