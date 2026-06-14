@@ -1,0 +1,23 @@
+# Visual Studio
+.vs/
+
+# Build results
+x64/
+x86/
+Debug/
+Release/
+
+# CMake specific
+build/
+bin/
+obj/
+
+# Visual Studio generated files
+*.obj
+*.exe
+*.dll
+*.pdb
+*.ilk
+*.lib
+*.exp
+*.log
